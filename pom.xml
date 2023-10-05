@@ -65,11 +65,11 @@
                     </excludes>
                 </configuration>
             </plugin>
-                  <plugin>
-            <groupId>org.apache.maven.plugins</groupId>
-            <artifactId>maven-clean-plugin</artifactId>
-            <version>3.2.0</version>
-        </plugin>
+                <plugin>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-clean-plugin</artifactId>
+    <version>3.2.1</version> <!-- Or whatever the latest version is -->
+</plugin>
         </plugins>
     </build>
 
